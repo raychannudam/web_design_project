@@ -31,8 +31,9 @@
 }
 
 .nav-bar > a:hover{
-    text-decoration: underline;
+    transform: scale(2);
     transition-duration: 0.4s;
+    transition-timing-function: linear;
 }
 
 .right-side{
